@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(234, 194, 118)
+}
+img{
+    margin: 0 20%;
+}
+.editor{
+    border-radius: 10px;
+    border: 2px solid rgba(247, 238, 221, 0.98);
+    width: 60%;
+    margin: 20px auto;
+}
+input{
+    margin: 15px 0;
+    background-color: rgba(234, 194, 118, 0.1);
+}
+button{
+    background: rgb(232, 159, 19);
+    border: 2px solid rgb(232, 159, 19);
+    
+}
+.imagen{
+    width: 30%;
+    margin: 0 35%;
+}
